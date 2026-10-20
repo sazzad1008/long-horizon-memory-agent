@@ -1,0 +1,9 @@
+{
+  "id": "incident-001",
+  "goal": "Analyze the incident notes and produce an evidence-based incident brief.",
+  "stages": [
+    {"id": "timeline", "objective": "Extract a timeline in timeline.md with source references."},
+    {"id": "causes", "objective": "Identify supported causes and uncertainty in causes.md."},
+    {"id": "brief", "objective": "Synthesize a concise brief in brief.md with recommendations."}
+  ]
+}

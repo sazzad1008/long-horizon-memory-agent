@@ -1,0 +1,3 @@
+09:12 UTC: API error rate increased after database connection pool saturation.
+09:18 UTC: On-call rolled back the latest deployment. Error rate declined.
+The direct trigger of pool saturation remains uncertain. Recommendation: add pool saturation alerts and inspect connection lifecycle.

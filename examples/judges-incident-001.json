@@ -1,0 +1,7 @@
+{
+  "gates": {
+    "timeline": {"artifact": "timeline.md", "contains": ["09:12", "incident-notes.txt"]},
+    "causes": {"artifact": "causes.md", "contains": ["database", "uncertain"]},
+    "brief": {"artifact": "brief.md", "contains": ["09:12", "database", "recommendation"]}
+  }
+}
